@@ -1,9 +1,5 @@
 # eth-evax-funerrror
 
-Certainly! Here’s a similar format description for the `DailyLoadTransaction` contract.
-
----
-
 ## Daily Load Transaction
 
 This Solidity program simulates a simple transaction system where users can load funds into their accounts, transfer funds to others, and withdraw all their funds. It demonstrates basic Solidity features, including `require()`, `assert()`, and `revert()` statements for validation, making it a great learning tool for newcomers to Solidity smart contract development.
