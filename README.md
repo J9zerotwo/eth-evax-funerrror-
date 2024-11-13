@@ -81,11 +81,3 @@ To run this program, you can use [Remix](https://remix.ethereum.org/), an online
    - **withdrawAll**: Withdraw all your funds. If no funds are available, an error will display.
    - **getBalance**: Enter any user address to check the balance.
 
-### Authors
-
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
-
-### License
-
-This project is licensed under the MIT License.
